@@ -26,7 +26,7 @@ The project deliverables consist of a PowerBI .pbix file and a PDF document.
 - **4** out **10** professionals aren't satisfied with their salary.
 
 *** 
-Click [Here]() to view the PDF of the *BI* Report.
+Click [Here](https://github.com/Syed-Sarfaraz-Ahmed/Data-Professional-Survey-Breakdown/blob/main/Data%20Professional%20Survey%20Breakdown.pdf) to view the PDF of the *BI* Report.
 
 ### Thank you!
 ***
