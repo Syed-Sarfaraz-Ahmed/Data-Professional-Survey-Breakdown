@@ -1,3 +1,8 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Syed-Sarfaraz-Ahmed/Data-Professional-Survey-Breakdown?logo=github)
+![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/Syed-Sarfaraz-Ahmed/Data-Professional-Survey-Breakdown?logo=history&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github) 
+
+
 # Data-Professional-Survey-Breakdown
 Survey has been conducted by [Alex The Analyst](https://github.com/AlexTheAnalyst) in September 2022. Survey raw data has been cleansed in Power BI desktop. Visualizations have been made accordingly. This Power BI dashboard breaks down the information collected in an online survey for Data Professionals. It represents the average salary by job title, level of difficulty to break into data, happiness with work/life balance, and so on. 
 
